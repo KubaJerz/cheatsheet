@@ -1,3 +1,3 @@
 # cheatsheet
 
-List of commands I often use.
+For quick refrance: A list of commands I often use.
