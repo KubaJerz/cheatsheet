@@ -14,6 +14,7 @@ I specify which one it works in: gnome terminal (basic ubuntu terminal) and Term
 | <br> <br> | |
 | Saves the reqs to a `.txt` file <br> ```pip freeze > requirements.txt ```<br> <br> Installs from the txt file <br> ```pip install -r requirements.txt``` |  *Gnome Terminal <br> and <br> Terminal.app* |
 | <br> <br> | |
-
+| Check disk usage <br> ```df -h``` | *Gnome Terminal <br> and <br> Terminal.app* |
+|<br> <br> | |
 
 
